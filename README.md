@@ -1,3 +1,5 @@
-Simple program that simulates a game of BlackJack. 
+# A program that simulates a game of BlackJack. 
 
-Can be played solo or multiplayer and number of bots is configurable via input.
+- Originally built to learn how to implement objects, functions and the separate specification and implementation files in C++.
+- Can be played solo or multiplayer and number of bots is configurable via input.
+
